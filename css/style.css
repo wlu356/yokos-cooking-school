@@ -37,7 +37,7 @@ article {
 	clear: both;
 	overflow: auto;
 	width: 100%;}
-hgroup {
+section.courses h2 {
 	margin-top: 40px;}
 figure {
 	float: left;
