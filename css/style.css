@@ -27,7 +27,9 @@ nav, footer {
 	background-color: #aeaca8;
 	height: 30px;}
 
-/* TO COMPLETE: Add navigation rules */
+/* TO COMPLETE: Add navigation rules (TASKS 3 & 4) */
+
+/* TO COMPLETE: Add rule to change how links in the navigation section look when they get focus using pseudo-classes (TASK 5) */
 
 section.courses {
 	float: left;
@@ -58,7 +60,7 @@ aside section a {
 	padding: 10px;
 	border-bottom: 1px solid #eeeeee;}
 	
-/* TO COMPLETE: Add rule to change how links in the popular recipes section look when they get focus (use pseudo-classes) */
+/* TO COMPLETE: Add rule to change how links in the popular recipes section look when they get focus using pseudo-classes (TASK 5) */
 
 h1, h2, h3 {
 	font-weight: normal;}
